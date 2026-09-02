@@ -1,17 +1,33 @@
-# Hi there, I Am Tony Gagliano 👋
+# Hi there, I'm Tony Gagliano 👋
 
-## 🛡️ Cybersecurity & Systems Security Analyst
-Dedicated security professional specializing in vulnerability assessment, web application penetration testing, and defensive systems hardening. Committed to bridging the gap between offensive exploitation methodologies and robust enterprise-level mitigation strategies.
+## 🛡️ Founder & Principal Security Architect | VaultMedia Security
+I specialize in building, auditing, and hardening secure cloud-native infrastructure, containerized repositories, and automated access monitoring pipelines for independent record labels, media agencies, and elite digital creators. 
+
+Our mission at **VaultMedia Security** is simple: deliver absolute wealth insurance by neutralizing pre-release leakage vectors, session-token theft, and unauthorized database access before assets hit the open market.
 
 ---
 
 ## 🚀 Professional Core Competencies
 
-| Offensive Security | Defensive Hardening | Infrastructure & Database |
+| Asset Vault Hardening | Risk Mitigation & Triage | Security Automation |
 | :--- | :--- | :--- |
-| • Web App Penetration Testing<br>• Vulnerability Assessment<br>• User & Service Enumeration<br>• Local File Inclusion (LFI) | • CMS & Platform Hardening<br>• Identity & Access Management (IAM)<br>• Least Privilege Configurations<br>• Log Analysis & Remediation | • Linux System Administration (LAMP)<br>• Python Security Scripting<br>• MySQL & MariaDB Management<br>• Git Version Control |
+| • Cloud & LAMP Stack Hardening<br>• Docker Container Isolation<br>• Directory Access Containment<br>• Filesystem Least-Privilege Enforcements | • Advanced User Enumeration Tracking<br>• Web App Penetration Testing<br>• Local File Inclusion (LFI) Remediation<br>• Splunk Log Analysis & Threshold Alerts | • Custom Python Security Scripts<br>• Pre-Release File Triage Engines<br>• Bash Environment Hardening Blueprints<br>• Git Version Control Operations |
 
 ---
+
+## 🔬 Featured Technical Security Assets
+
+### 🎙️ [Pre-Release Inbound Triage Gatekeeper Engine](https://github.com)
+*A proprietary Python-driven security framework built to intercept, extract, and analyze external communication strings for adversarial infrastructure signatures.*
+*   **The Problem:** Creative management networks are heavily targeted by high-pressure, AI-driven phishing and session-token theft campaigns masked as sponsorship contracts or collaborative audio brief attachments.
+*   **The Architecture:** Deploys automated regular-expression parsing filters and string token analysis to triage incoming communication links, scoring threat metrics against high-risk top-level domain extensions (e.g., `.zip`, `.click`, `.top`) before files cross the company's internal boundaries.
+
+### 🌐 [WordPress Security Assessment & Infrastructure Hardening](https://github.com)
+*A comprehensive engineering write-up mapping the entire offensive threat lifecycle and defensive remediation protocol for self-hosted publishing platforms.*
+*   **The Problem:** Artists and independent labels frequently rely on self-hosted web applications and merchandise storefronts that host sensitive backend databases containing intellectual property.
+*   **The Architecture:** Chains user enumeration and a severe Local File Inclusion (LFI) plugin vulnerability to trace system users, brute-forces high-privileged accounts via the XML-RPC multi-call vector, and builds an enterprise-grade remediation architecture including web server blocking directives and filesystem code execution lockouts (`DISALLOW_FILE_EDIT`).
+
+
 
 ## 🎓 Certifications & Training
 *   🏅 **Hack The Box Academy** – Current Continuous Learning
@@ -52,6 +68,23 @@ Dedicated security professional specializing in vulnerability assessment, web ap
 ![Wireshark](https://shields.io)
 
 ### Defensive Monitoring & Operations
+![Splunk](https://shields.io)
+![Git](https://shields.io)
+
+### Operating Systems & Infrastructure Virtualization
+![Kali Linux](https://shields.io)
+![Parrot OS](https://shields.io)
+![Docker](https://shields.io)
+
+### Core Languages, Relational Databases & Web Architecture
+![Python](https://shields.io)
+![LAMP Stack](https://shields.io)
+![MySQL](https://shields.io)
+![MariaDB](https://shields.io)
+
+### Engineering, Testing & Log Monitoring Utilities
+![Burp Suite](https://shields.io)
+![Nmap](https://shields.io)
 ![Splunk](https://shields.io)
 ![Git](https://shields.io)
 
