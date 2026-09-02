@@ -17,12 +17,12 @@ Our mission at **VaultMedia Security** is simple: deliver absolute wealth insura
 
 ## 🔬 Featured Technical Security Assets
 
-### 🎙️ [Pre-Release Inbound Triage Gatekeeper Engine](https://github.com)
+### 🎙️ [Pre-Release Inbound Triage Gatekeeper Engine]
 *A proprietary Python-driven security framework built to intercept, extract, and analyze external communication strings for adversarial infrastructure signatures.*
 *   **The Problem:** Creative management networks are heavily targeted by high-pressure, AI-driven phishing and session-token theft campaigns masked as sponsorship contracts or collaborative audio brief attachments.
 *   **The Architecture:** Deploys automated regular-expression parsing filters and string token analysis to triage incoming communication links, scoring threat metrics against high-risk top-level domain extensions (e.g., `.zip`, `.click`, `.top`) before files cross the company's internal boundaries.
 
-### 🌐 [WordPress Security Assessment & Infrastructure Hardening](https://github.com)
+### 🌐 [WordPress Security Assessment & Infrastructure Hardening]
 *A comprehensive engineering write-up mapping the entire offensive threat lifecycle and defensive remediation protocol for self-hosted publishing platforms.*
 *   **The Problem:** Artists and independent labels frequently rely on self-hosted web applications and merchandise storefronts that host sensitive backend databases containing intellectual property.
 *   **The Architecture:** Chains user enumeration and a severe Local File Inclusion (LFI) plugin vulnerability to trace system users, brute-forces high-privileged accounts via the XML-RPC multi-call vector, and builds an enterprise-grade remediation architecture including web server blocking directives and filesystem code execution lockouts (`DISALLOW_FILE_EDIT`).
@@ -33,7 +33,7 @@ An enterprise-tier automated triage engine engineered to neutralize phishing, cr
 
 ---
 
-## 📊 The Infrastructure Bottleneck Strategy (The Rockefeller Turnpike)
+## 📊 The Infrastructure Bottleneck Strategy (The Turnpike)
 Digital media businesses lose critical revenue when team members interact directly with unverified external communication links. This framework establishes an automated technical gatekeeper on the network perimeter. Every incoming collaboration proposal, sponsorship file package, or external hyperlink string must pass through this triage engine for structural validation before accessing internal communication tiers.
 
 ```mermaid
