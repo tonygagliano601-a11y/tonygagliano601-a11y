@@ -1,4 +1,4 @@
-# Hi there, I'm Tony Gagliano 👋
+# Hi there, I'm Tony G 👋
 
 ## 🛡️ Founder & Principal Security Architect | VaultMedia Security
 I specialize in building, auditing, and hardening secure cloud-native infrastructure, containerized repositories, and automated access monitoring pipelines for independent record labels, media agencies, and elite digital creators. 
