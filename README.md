@@ -136,5 +136,5 @@ Execute the analysis engine against raw text payloads using the command-line int
 
 ## 🤝 Connect With Me
 *   💼 **LinkedIn:** [www.linkedin.com/in/tony-gagliano](www.linkedin.com/in/tony-gagliano) 
-*   🌐 **Portfolio / Blog:** [IN PROGRESS](https://yourwebsite.com)
-*   📬 **Email:** [t.gagliano0@icloud.com](mailto:t.gagliano0@icloud.com)
+*   🌐 **Website:** [https://vaultmediasecurity.com/](https://vaultmediasecurity.com/)
+*   📬 **Email:** [tony@vaultmediasecurity.com](mailto:tony@vaultmediasecurity.com)
