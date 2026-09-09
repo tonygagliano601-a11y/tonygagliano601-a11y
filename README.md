@@ -5,6 +5,7 @@ I specialize in building, auditing, and hardening secure cloud-native infrastruc
 
 Our mission at **VaultMedia Security** is simple: deliver absolute wealth insurance by neutralizing pre-release leakage vectors, session-token theft, and unauthorized database access before assets hit the open market.
 
+Secure the vault, protect the masters!
 ---
 
 ## 🚀 Professional Core Competencies
@@ -61,9 +62,6 @@ graph TD
 
 ## 🚀 Local Deployment Syntax
 Execute the analysis engine against raw text payloads using the command-line interface:
-```bash
-./sponsorship_triage.py -t "Input suspicious message text inside quotation strings"
-```
 
 
 ## 🎓 Certifications & Training
