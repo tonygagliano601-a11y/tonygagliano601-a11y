@@ -1,41 +1,28 @@
-# Hi there, I'm Tony G 👋
+# Hi there, I'm Tony Gagliano 👋
 
-## 🛡️ Founder & Principal Security Architect | VaultMedia Security
-I specialize in building, auditing, and hardening secure cloud-native infrastructure, containerized repositories, and automated access monitoring pipelines for independent record labels, media agencies, and elite digital creators. 
+## 🛡️ Founder & Principal Security Architect | VaultMedia Security LLC
+I am a military veteran, systems engineer, and the founder of **VaultMedia Security LLC** based in Colorado Springs, CO. I specialize in designing, auditing, and hardening high-availability enterprise infrastructure, secure cloud-native networks, and automated perimeter monitoring pipelines for mid-market general contractors, specialty trades, and independent commercial lines insurance brokerages.
 
-Our mission at **VaultMedia Security** is simple: deliver absolute wealth insurance by neutralizing pre-release leakage vectors, session-token theft, and unauthorized database access before assets hit the open market.
+Our mission at **VaultMedia Security** is absolute loss prevention: we eliminate the unmanaged network entry pathways, session token exploits, and data leaks that lead to devastating, six-figure invoice redirection wire fraud and lateral ransomware contamination before assets cross our clients' corporate boundaries.
 
-Secure the vault, protect the masters!
+Secure the perimeter, insulate the corporate cash flow!
+
 ---
 
 ## 🚀 Professional Core Competencies
 
-| Asset Vault Hardening | Risk Mitigation & Triage | Security Automation |
+| Enterprise Infrastructure Hardening | Regulatory Compliance & Triage | SIEM & Threat Monitoring |
 | :--- | :--- | :--- |
-| • Cloud & LAMP Stack Hardening<br>• Docker Container Isolation<br>• Directory Access Containment<br>• Filesystem Least-Privilege Enforcements | • Advanced User Enumeration Tracking<br>• Web App Penetration Testing<br>• Local File Inclusion (LFI) Remediation<br>• Splunk Log Analysis & Threshold Alerts | • Custom Python Security Scripts<br>• Pre-Release File Triage Engines<br>• Bash Environment Hardening Blueprints<br>• Git Version Control Operations |
+| • Cloud Architecture & Web Server Hardening<br>• Layer 4 & Layer 7 Load Balancing Clusters<br>• Network Segment & Endpoint Isolation<br>• Filesystem Least-Privilege Enforcements | • Advanced Vulnerability Profiling<br>• CMMC 2.0 Framework Self-Assessments<br>• NIST SP 800-171 Regulatory Audits<br>• External Access Control List (ACL) Tuning | • Real-Time Splunk Telemetry Design<br>• Python Security Scrapers & Automation<br>• Threshold Intrusion Alert Scripting<br>• Git Version Control Operations |
 
 ---
 
-## 🔬 Featured Technical Security Assets
+## 🛡️ Inbound Revenue Protection Architecture (Sponsorship & Vendor Gatekeeper Engine)
 
-### 🎙️ [Pre-Release Inbound Triage Gatekeeper Engine]
-*A proprietary Python-driven security framework built to intercept, extract, and analyze external communication strings for adversarial infrastructure signatures.*
-*   **The Problem:** Creative management networks are heavily targeted by high-pressure, AI-driven phishing and session-token theft campaigns masked as sponsorship contracts or collaborative audio brief attachments.
-*   **The Architecture:** Deploys automated regular-expression parsing filters and string token analysis to triage incoming communication links, scoring threat metrics against high-risk top-level domain extensions (e.g., `.zip`, `.click`, `.top`) before files cross the company's internal boundaries.
+An enterprise-tier automated triage engine engineered to neutralize phishing, credential harvesting, and session-token theft vectors targeting commercial builders, supply chain links, and project management ecosystems.
 
-### 🌐 [WordPress Security Assessment & Infrastructure Hardening]
-*A comprehensive engineering write-up mapping the entire offensive threat lifecycle and defensive remediation protocol for self-hosted publishing platforms.*
-*   **The Problem:** Artists and independent labels frequently rely on self-hosted web applications and merchandise storefronts that host sensitive backend databases containing intellectual property.
-*   **The Architecture:** Chains user enumeration and a severe Local File Inclusion (LFI) plugin vulnerability to trace system users, brute-forces high-privileged accounts via the XML-RPC multi-call vector, and builds an enterprise-grade remediation architecture including web server blocking directives and filesystem code execution lockouts (`DISALLOW_FILE_EDIT`).
-
-# 🛡️ Inbound Revenue Protection Architecture (Sponsorship Gatekeeper Engine)
-
-An enterprise-tier automated triage engine engineered to neutralize phishing, credential harvesting, and session-token theft vectors targeting high-revenue digital content creators and media houses.
-
----
-
-## 📊 The Infrastructure Bottleneck Strategy (The Turnpike)
-Digital media businesses lose critical revenue when team members interact directly with unverified external communication links. This framework establishes an automated technical gatekeeper on the network perimeter. Every incoming collaboration proposal, sponsorship file package, or external hyperlink string must pass through this triage engine for structural validation before accessing internal communication tiers.
+### 📊 The Infrastructure Bottleneck Strategy (The Turnpike)
+Commercial construction businesses lose critical revenue when team members interact directly with unverified external communication links or spoofed invoicing threads. This framework establishes an automated technical gatekeeper on the network perimeter. Every incoming vendor proposal, subcontractor file package, or remote hyperlink string must pass through this triage engine for structural validation before accessing internal communication tiers.
 
 ```mermaid
 graph TD
@@ -43,98 +30,60 @@ graph TD
     classDef gate fill:#00758f,stroke:#003545,stroke-width:2px,color:#fff;
     classDef internal fill:#1679a7,stroke:#003545,stroke-width:2px,color:#fff;
 
-    A[Suspicious Inbound Sponsorship Email]:::client -->|Forwarded by Content Creator| B[Automated Triage Turnpike Engine]:::gate
+    A[Suspicious Inbound Vendor Invoicing Email]:::client -->|Forwarded by Accounting/PM| B[Automated Triage Turnpike Engine]:::gate
     B -->|Phase 1: Regulated Regex Extraction| C{Evaluate Domain Parameters}:::gate
     C -->|High-Risk Extension Flagged: .zip, .click, .top| D[STATUS: REJECT & BLOCK ACCESS]:::client
-    C -->|Verified Global Safe Whitelist| E[STATUS: CLEAR & PASS TO LEGAL]:::internal
+    C -->|Verified Global Safe Whitelist| E[STATUS: CLEAR & PASS TO ESTIMATING]:::internal
     B -->|Phase 2: Linguistic Threat Scan| F{Detect Social Engineering Signatures}:::gate
-    F -->|Urgent Action / Bank Link Matched| D
+    F -->|Urgent Action / Bank Routing Link Matched| D
 ```
 
 ---
 
 ## 🧰 Technical Capability Matrices
-*   **Static Domain Whitelisting Mapping:** Instantly separates verified, authoritative corporate entities from dynamic, adversarial infrastructure.
+*   **Static Domain Whitelisting Mapping:** Instantly separates verified, authoritative corporate developers and insurance carriers from dynamic, adversarial infrastructure.
 *   **High-Risk TLD Filtering:** Automatically identifies and flags dangerous domain structures (e.g., `.zip`, `.click`, `.top`) heavily favored by modern infostealer malware distributions.
-*   **Linguistic Behavioral Analysis:** Scans body text components for high-pressure social engineering telemetry to protect your company's digital session keys.
+*   **Linguistic Behavioral Analysis:** Scans invoice body text components for high-pressure social engineering telemetry to protect your company's digital session keys.
 
 ---
 
-## 🚀 Local Deployment Syntax
-Execute the analysis engine against raw text payloads using the command-line interface:
+## 🔬 Featured Technical Security Assets & Labs
 
+### 📡 [VaultMedia Core Automated Job Sector Scanner]
+*A proprietary Python-driven security framework built to intercept, extract, and analyze public employment boards for commercial infrastructure software tags.*
+*   **The Problem:** Scaling construction firms frequently broadcast their exact expanding cloud attack surface to adversaries by listing mandatory software proficiencies on open boards.
+*   **The Architecture:** Deploys automated regular-expression parsing filters and string token analysis via BeautifulSoup4 to triage local job descriptions, automatically flagging firms matching critical cloud software indicators (e.g., `Procore`, `Sage 300`, `Autodesk BIM 360`) to build high-priority risk-insulation campaigns.
+
+### 🌐 [High-Availability IIS Web Server Load Balancing Deployment]
+*A comprehensive engineering write-up and scripting repository configuring fault-tolerant web server farms on Windows Server 2019 environments.*
+*   **The Problem:** Commercial project management portals and blueprint directories cannot afford a single point of failure or downtime during high-velocity bidding windows.
+*   **The Architecture:** Integrates Microsoft Application Request Routing (ARR) 3.0 proxies and Weighted Round-Robin load distribution algorithms. Configures continuous automated health tests to dynamically re-route traffic completely away from failing server nodes in milliseconds, maintaining absolute user uptime and eliminating database exposure.
+
+---
 
 ## 🎓 Certifications & Training
-*   🏅 **Hack The Box Academy** – Current Continuous Learning
-*   🏅 **CompTIA Security+ & CySA+** –  "In Progress"
+*   🏅 **ISACA Certified Information Systems Auditor (CISA)** – Professional Target Pathway
+*   🏅 **ISC2 Certified Information Systems Security Professional (CISSP)** – Executive Roadmap
+*   🏅 **CompTIA Security+** – Technical Infrastructure Baseline
 *   🎓 **A.S. Information Technology** – Full Sail University, 2026
-*   🎓 **B.S. Cybersecurity** – Full Sail University, 2027 "In Progress"
-
+*   🎓 **B.S. Cybersecurity** – Full Sail University, 2027 *(Current Enrolled Track)*
 
 ---
-
-## 🔬 Featured Technical Security Labs
-
-### 🌐 [WordPress Security Assessment & Compromise](https://github.com)
-*Detailed security lifecycle execution mapping, exploiting, and mitigating vulnerabilities on a Linux-hosted content management platform.*
-*   **Offensive Vector:** Chained unauthenticated user enumeration and local file inclusion (LFI) in a third-party extension to discover localized operating system files.
-*   **Exploitation:** Executed multi-call XML-RPC brute-forcing to secure administrative access and modified live template components to secure a stable remote code execution (RCE) web shell.
-*   **Remediation:** Documented precise code-level hardening strategies including server-side path filtering, disabling legacy configuration APIs, and freezing user filesystem modifications.
-
 
 ## 🛠️ Tech Stack & Toolbelt
 
-### Operating Systems & Infrastructure
-![Kali Linux](https://shields.io)
-![Parrot OS](https://shields.io)
-![Docker](https://shields.io)
-![Ansible](https://shields.io)
-
-### Development, Databases & Web Architecture
-![Python](https://shields.io)
-![LAMP Stack](https://shields.io)
-![MySQL](https://shields.io)
-![MariaDB](https://shields.io)
-
-### Security Assessment & Penetration Testing
-![Burp Suite](https://shields.io)
-![Metasploit](https://shields.io)
-![Nmap](https://shields.io)
-![Wireshark](https://shields.io)
-
-### Defensive Monitoring & Operations
-![Splunk](https://shields.io)
-![Git](https://shields.io)
-
 ### Operating Systems & Infrastructure Virtualization
-![Kali Linux](https://shields.io)
-![Parrot OS](https://shields.io)
-![Docker](https://shields.io)
+*   **Kali Linux** / **Parrot OS** / **Windows Server 2019** / **Docker** / **Ansible**
 
 ### Core Languages, Relational Databases & Web Architecture
-![Python](https://shields.io)
-![LAMP Stack](https://shields.io)
-![MySQL](https://shields.io)
-![MariaDB](https://shields.io)
+*   **Python** / **Bash Scripting** / **LAMP Stack** / **MySQL** / **MariaDB** / **HTML5 & CSS3**
 
 ### Engineering, Testing & Log Monitoring Utilities
-![Burp Suite](https://shields.io)
-![Nmap](https://shields.io)
-![Splunk](https://shields.io)
-![Git](https://shields.io)
-
+*   **Splunk Enterprise** / **Dashboard Studio 2.0** / **Wireshark** / **Nmap** / **Git Version Control**
 
 ---
 
-## 📈 GitHub Metrics
-<p align="left">
-  <img src="https://vercel.app" alt="Your GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Top Languages" height="150" />
-</p>
-
----
-
-## 🤝 Connect With Me
-*   💼 **LinkedIn:** [www.linkedin.com/in/tony-gagliano](www.linkedin.com/in/tony-gagliano) 
-*   🌐 **Website:** [https://vaultmediasecurity.com/](https://vaultmediasecurity.com/)
-*   📬 **Email:** [tony@vaultmediasecurity.com](mailto:tony@vaultmediasecurity.com)
+## 🤝 Connect With My Lab
+*   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com) 
+*   🌐 **Corporate Showroom:** [https://vaultmediasecurity.com](https://vaultmediasecurity.com)
+*   📬 **Secure Inquiries:** [tony@vaultmediasecurity.com](mailto:tony@vaultmediasecurity.com)
