@@ -1,11 +1,11 @@
-# Hi there, I'm Tony Gagliano 👋
+# Hi there, I'm Tony Gagliano 
 
 ## 🛡️ Founder & Principal Security Architect | VaultMedia Security LLC
 I am a military veteran, systems engineer, and the founder of **VaultMedia Security LLC** based in Colorado Springs, CO. I specialize in designing, auditing, and hardening high-availability enterprise infrastructure, secure cloud-native networks, and automated perimeter monitoring pipelines for mid-market general contractors, specialty trades, and independent commercial lines insurance brokerages.
 
 Our mission at **VaultMedia Security** is absolute loss prevention: we eliminate the unmanaged network entry pathways, session token exploits, and data leaks that lead to devastating, six-figure invoice redirection wire fraud and lateral ransomware contamination before assets cross our clients' corporate boundaries.
 
-Secure the perimeter, insulate the corporate cash flow!
+Secure the perimeter, Protect the vault!
 
 ---
 
@@ -84,6 +84,6 @@ graph TD
 ---
 
 ## 🤝 Connect With My Lab
-*   💼 **LinkedIn:** [://linkedin.com](https://://linkedin.com) 
+*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/tony-gagliano/) 
 *   🌐 **Corporate Showroom:** [https://vaultmediasecurity.com](https://vaultmediasecurity.com)
 *   📬 **Secure Inquiries:** [tony@vaultmediasecurity.com](mailto:tony@vaultmediasecurity.com)
